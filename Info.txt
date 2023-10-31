@@ -1,0 +1,4 @@
+CFBundleExecutable: "td-view"
+CFBundleName: "TD Viewer"
+CFBundlePackageType: 'APPL'
+CFBundleSignature:   'TDSK'

@@ -1,3 +1,5 @@
+var
 .ccls-cache
 *.o
-cocoa
+*.app
+td-view
