@@ -1,3 +1,6 @@
 [submodule "modules/metamage_1"]
 	path = modules/metamage_1
 	url = https://github.com/jjuran/metamage_1
+[submodule "modules/td-img"]
+	path = modules/td-img
+	url = https://github.com/targetdisk/td-img
