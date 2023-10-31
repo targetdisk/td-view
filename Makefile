@@ -4,7 +4,7 @@ FRAMEWORKS = -framework AppKit -framework Cocoa
 catalog:
 	./build.pl
 
-var/out/minivx: catalog
+var/out/minivx:
 	./build.pl -i minivx
 
 minivx: var/out/minivx
